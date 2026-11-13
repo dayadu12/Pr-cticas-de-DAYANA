@@ -7,7 +7,7 @@ public class AC322 {
         System.out.println("Ingrese un número:");
         int num=sc.nextInt();
         int suma=0;
-        int totalImpares=0;
+        int totalImpares=10;
         int sumaImpares=0;
         for(i=0; num!= 0;i++){
             suma=suma+num;
